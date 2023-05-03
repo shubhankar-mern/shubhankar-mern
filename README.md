@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on opensource Projects
 - 📫 How to reach me 📧 shubhankars361@gmail.com
 
-[![My Skills](https://skillicons.dev/iconsi=js,html,css,ejs,ts,react,mongodb,postgres,sql,c++,nodejs,figma,bootstrap,aws,cs,github,git,gitlab,go,grafana,graphql,powershell,py,rabbitmq,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ejs,ts,react,mongodb,postgres,sql,c++,nodejs,figma,bootstrap,aws,cs,github,git,gitlab,go,grafana,graphql,powershell,py,rabbitmq,vscode)](https://skillicons.dev)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhankar-mern&theme=dark)](https://git.io/streak-stats)
 <!---
