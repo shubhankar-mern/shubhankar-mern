@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on opensource Projects
 - 📫 How to reach me 📧 shubhankars361@gmail.com
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ejs,nodejs,typescript,react,mongodb,postgres,sql,c#,c++)](https://skillicons.dev)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhankar-mern&theme=dark)](https://git.io/streak-stats)
 <!---
 shubhankar-mern/shubhankar-mern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
