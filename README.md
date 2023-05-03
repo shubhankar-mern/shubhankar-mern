@@ -10,7 +10,7 @@
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/shubhankar-mern/langs)](https://githubtrends.io)
 
-[![panel](https://myreadme.vercel.app/api/embed/shubhankar-mern?panels=toprepositories)]
+![panel](https://myreadme.vercel.app/api/embed/shubhankar-mern?panels=toprepositories,userstatistics)
 <!---
 shubhankar-mern/shubhankar-mern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
