@@ -8,7 +8,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhankar-mern&theme=dark)](https://git.io/streak-stats)
 
-![panel](https://myreadme.vercel.app/api/embed/shubhankar-mern?panels=toprepositories,userstatistics,toplanguages,commitgraph)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhankar-mern)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/shubhankar-mern/langs)](https://githubtrends.io)
 <!---
