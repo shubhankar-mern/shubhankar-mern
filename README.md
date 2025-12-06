@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhankar-mern
-- 👀 I’m interested in Solidity and Fullstack Roles
+- 👀 I’m interested in  Fullstack Roles
 - 🌱 I’m currently learning Blockchain and Solidity
 - 💞️ I’m looking to collaborate on opensource Projects
 - 📫 How to reach me 📧 shubhankars361@gmail.com
