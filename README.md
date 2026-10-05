@@ -5,10 +5,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,mongodb,postgres,nodejs,figma,bootstrap,aws,cs,github,git,gitlab,go,grafana,graphql,powershell,py,rabbitmq,vscode)](https://skillicons.dev)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhankar-mern&theme=dark)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhankar-mern)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/shubhankar-mern/langs)](https://githubtrends.io)
 
 [![An image of @shubhankarmern's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhankarmern)](https://holopin.io/@shubhankarmern)
 <!---
